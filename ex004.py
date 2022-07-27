@@ -6,5 +6,8 @@ print('Ele é alfabético ?', a.isalpha())
 print('É um número ?', a.isnumeric())
 print('Esta em maiusculas ?',a.isupper())
 print('Esta em minusculas ?', a.islower())
-print('Esta capitalizada',a.istitle())
+print('Esta capitalizada ?',a.istitle())
+
+
+
 
